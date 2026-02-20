@@ -1,5 +1,6 @@
 # Layoffs-Data-Analysis Using MqSQL
-    ## Project Overview
+
+## Project Overview
 This Project Focuses on cleaning and analysing layoff dataset using MySQL
 
   ## TOOLS USED
